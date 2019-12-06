@@ -1,0 +1,184 @@
+
+/*Home section start*/
+/*body {
+	margin: 0px;
+	padding: 0px;
+}
+*/
+/*.no_padding {
+	padding: 0px;
+}
+*/
+
+
+body {
+	padding: 0px!important;
+	margin: 0px!important;
+	overflow-x: hidden;
+
+}
+
+#Home {
+	padding: 3% 0%;
+}
+
+.content1 {
+	padding: 7% 0%;
+	line-height: 1.5;
+}
+
+
+body {
+	background-color: #0A2345;
+	padding: 0 !important;
+   margin: 0 !important;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.bar-cstm {
+	color: #1D477E;
+}
+
+nav ul li a {
+	color: #fff!important;
+}
+
+.white {
+	color: #fff;
+
+}
+
+.blue {
+	color: #2A5DA3;
+
+}
+.btn-cstm1 {
+	color: #fff;
+    border-radius: 26px;
+    padding: 8px 29px;
+    background: #0A2345;
+    border: 1px solid #2A5DA3;
+
+	
+	
+}
+.btn-cstm1:hover {
+	color: #FF3334;
+    
+	
+	
+}
+
+.cstm_response {
+	width: 100%;
+	height: auto;
+
+}
+.cstm_response2 {
+	width: 100%;
+	height: auto;
+
+}
+
+/*Home section end*/
+
+/*Feature section start*/
+
+#Feature {
+	padding: 10% 0%;
+}
+
+
+.parent1 {
+	position: relative;
+
+} 
+.child1 {
+	position: absolute;
+	right: 12%;
+
+}
+
+.part2 {
+	padding: 14% 0%;
+}
+.part2 h2{
+	padding-bottom: 5%;
+}
+
+.parent2 {
+
+	position: relative;
+
+}
+.child2 {
+position: absolute;
+    top: -45%;
+    right: 2%;
+}
+}
+
+/*Feature section end*/
+
+/*Opinion section start*/
+
+
+/*Opinion section end*/
+
+/*Download section start*/
+
+#Download {
+	background-color: #020205;
+	color: #fff;
+}
+
+
+#Download h2{
+	color: #fff;
+}
+
+#Download p{
+	color: #fff;
+}
+
+
+
+/*Download section end*/
+
+/*footer section start*/
+
+#Footer {
+	color: #265596; 
+	padding: 2% 0%;
+	background-color: #010103;
+}
+#Footer ul {
+	list-style: none;
+	color: #265596;
+}
+
+
+#Footer ul li {
+	display: inline-block;
+	color: #265596;
+	padding: 0px 10px;	
+}
+
+#Footer ul li a{
+	
+	color: #265596;
+	text-decoration: none;	
+	
+}
+
+#Footer p {
+	
+	color: #265596;
+	
+	
+}
+
+/*footer section end*/
